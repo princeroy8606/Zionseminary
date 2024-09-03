@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "npm rebuild bcrypt --build-from-source",
+  "start": "node index.js"
+}
